@@ -1,3 +1,10 @@
+'''
+upgrade to astro v4 https://astro.build/blog/astro-4/
+'''
+
+
+
+
 # Astro Starter Kit: Blog
 
 ```
